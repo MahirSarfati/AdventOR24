@@ -29,7 +29,4 @@ Minimize \( R \)
 
 3. Define the total number of rooms used:
 
-   $$ \sum_{k=1}^n a_k b_k = \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right) $$
-
-
-$$ \sum_{k=1}^n a_k b_k = \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right) $$
+   $$ R \geq \sum_{i \in V} x_{i,k} \quad \forall k $$
