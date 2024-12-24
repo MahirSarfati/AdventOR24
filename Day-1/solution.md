@@ -1,7 +1,7 @@
 ## Event Scheduling Problem
 
 ### Objective:
-Minimize the number of rooms used.
+Minimize the number of rooms used. 
 
 ### Sets:
 - \( V \): Set of events (vertices).
