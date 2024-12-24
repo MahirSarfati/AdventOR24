@@ -1,7 +1,7 @@
 ## Event Scheduling Problem
 
 ### Objective:
-Minimize the number of rooms used. 
+Minimize the number of rooms used.
 
 ### Sets:
 - \( V \): Set of events (vertices).
@@ -46,9 +46,8 @@ Minimize \( R \)
    R \geq \sum_{i \in V} x_{i,k} \quad \forall k
    \]
 
-$$
-\sum_{k=1}^n a_k b_k = \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-$$
+
+
 
 
 
