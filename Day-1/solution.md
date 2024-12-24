@@ -48,3 +48,4 @@ Minimize \( R \)
 
 
 
+
