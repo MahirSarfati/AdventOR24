@@ -22,7 +22,7 @@ Minimize \( R \)
 **Subject to:**
 
 1. Each event must be assigned to exactly one room:
-   $$ \sum_{k=1}^R x_{i,k} = 1 \quad \forall i \in V $$
+   $ \sum_{k=1}^R x_{i,k} = 1 \quad \forall i \in V $
 
 2. No two overlapping events can be assigned to the same room:
    $$ x_{i,k} + x_{j,k} \leq 1 \quad \forall (i, j) \in E, \forall k $$
